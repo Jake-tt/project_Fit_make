@@ -53,6 +53,7 @@
 - [Fit Make.pptx](https://github.com/NamKiHyeong/project_Fit_make/files/10207650/Fit.Make.pptx)
 - [FitMake_Mockup.pdf](https://github.com/NamKiHyeong/project_Fit_make/files/10207659/FitMake_Mockup.pdf)
 - [FitMake_종합.docx](https://github.com/NamKiHyeong/project_Fit_make/files/10207660/FitMake_.docx)
+- [FitMake종합_Ver_23.02.02.pptx](https://github.com/Jake-tt/project_Fit_make/files/10564867/Fit.Make._Ver_23.02.02.pptx)
 - [FitMake_주제선정발표피드백.docx](https://github.com/NamKiHyeong/project_Fit_make/files/10207661/FitMake_.docx)
 - [FitMake_UI피드백.docx](https://github.com/NamKiHyeong/project_Fit_make/files/10207662/FitMake_UI.docx)
 - [FitMake_역할.docx](https://github.com/NamKiHyeong/project_Fit_make/files/10207663/FitMake_.docx)
