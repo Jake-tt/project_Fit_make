@@ -13,11 +13,11 @@
 
  ## 2022-09-08 프로젝트 ppt 컨펌
  
-  - [조졌조_220908.pptx](https://github.com/NamKiHyeong/project_Fit_make/files/9793840/_220908.pptx)
+  - [FitMake_220908.pptx](https://github.com/Jake-tt/project_Fit_make/files/10564428/FitMake_220908.pptx)
   
  ## 2022-09-13 프로젝트 ppt 발표(1차)
 
-  - [조졌조_220913.pptx](https://github.com/NamKiHyeong/project_Fit_make/files/9792517/_220913.pptx)
+  - [FitMake_220913.pptx](https://github.com/Jake-tt/project_Fit_make/files/10564429/FitMake_220913.pptx)
 
  ## 팀프로젝트 진행 사항 자료
 
